@@ -2,6 +2,7 @@
 
 workspace=plan9port
 
+sudo apt update
 sudo apt install -y \
 	gcc \
 	git \
